@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akashkumar Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchinovian.medium.com%2Fsyntax-highlighting-finally-bc12b6e19247&psig=AOvVaw2746DXTE1K-q--cuDh3lQU&ust=1708946365997000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDSqrqvxoQDFQAAAAAdAAAAABAE"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku2005&label=Profile%20views&color=0e75b6&style=flat" alt="akku2005" /> </p>
